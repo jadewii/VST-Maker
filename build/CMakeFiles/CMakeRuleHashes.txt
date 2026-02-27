@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+7dc73409a48f47b9cfcc01320458c953 Dreamverb_artefacts/JuceLibraryCode/Dreamverb_AU/PkgInfo
+f86dcbc29b6b44510eb1a13f22cfc4ef Dreamverb_artefacts/JuceLibraryCode/Dreamverb_Standalone/PkgInfo
+54769131cc9fd9017b16efcdad8d3ac8 Dreamverb_artefacts/JuceLibraryCode/Dreamverb_VST3/PkgInfo
